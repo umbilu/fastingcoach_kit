@@ -1,0 +1,24 @@
+{
+  "name": "fastingcoach_kit",
+  "version": "1.0.0",
+  "description": "Contenuto: - data/: CSV templates and sample data - api_samples/: example JSON requests/responses - server_snippets/: Node.js Express example + rules - prompts/: system & user prompts - docs/: API schema, safety rules, roadmap",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umbilu/fastingcoach_kit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Umbilu/fastingcoach_kit/issues"
+  },
+  "homepage": "https://github.com/Umbilu/fastingcoach_kit#readme"
+}
