@@ -1,0 +1,13 @@
+{
+  "user_id": "u_12345",
+  "data": "2025-10-16",
+  "peso_kg": 71.2,
+  "calorie_totali": 1520,
+  "inizio_finestra": "11:05",
+  "fine_finestra": "19:02",
+  "passi": 7800,
+  "allenamento_min": 30,
+  "sonno_ore": 7.0,
+  "energia_score": 6,
+  "sintomi": ""
+}

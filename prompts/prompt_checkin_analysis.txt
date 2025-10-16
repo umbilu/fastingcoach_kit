@@ -1,0 +1,6 @@
+Analizza questi dati settimanali: peso_iniziale {w0_kg}, peso_finale {w1_kg}, media_calorie {avg_kcal},
+passi_media {avg_steps}, adherence_fasting {pct_adherence}.
+Restituisci:
+1) Δ peso e velocità (kg/settimana)
+2) 3 raccomandazioni pratiche
+3) suggerimento modifica deficit/attività (sì/no + valore)

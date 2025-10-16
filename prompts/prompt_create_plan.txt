@@ -1,0 +1,8 @@
+Crea un piano di digiuno intermittente 4 settimane per:
+età {eta}, sesso {sesso}, peso {peso} kg, altezza {altezza} cm, attività {livello_attivita},
+obiettivo {obiettivo_kg} kg in {settimane} settimane. Preferenza protocollo: {protocollo_preferito}.
+Output:
+1) sintesi (1-2 frasi)
+2) calendario settimanale
+3) esempio menu giornaliero per 1600 kcal
+4) tre consigli di sicurezza

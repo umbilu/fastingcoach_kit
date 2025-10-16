@@ -1,0 +1,2 @@
+user_id,nome,eta,sesso,peso_kg,altezza_cm,obiettivo_kg,tempo_target_settimane,livello_attivita,condizioni_mediche,farmaci,preferenze_alimentari,finestra_inizio,finestra_fine
+u_001,Maria,34,F,72,165,66,12,moderato,,,"vegetariano",11:00,19:00

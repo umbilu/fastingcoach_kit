@@ -1,0 +1,5 @@
+Genera tre messaggi brevi per oggi per un utente in 16:8 (11:00–19:00):
+- mattina (motivazionale + idratazione)
+- 30 min prima apertura finestra (primo pasto)
+- 20 min prima chiusura (wrap-up)
+Ogni messaggio ≤ 220 caratteri.
