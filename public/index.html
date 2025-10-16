@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <title>FastingCoach Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>FastingCoach</h1>
+    <p>Assistente per il digiuno intermittente</p>
+
+    <section>
+      <h2>Onboarding</h2>
+      <form id="onboardingForm">
+        <input type="text" name="nome" placeholder="Nome" required />
+        <input type="number" name="peso" placeholder="Peso (kg)" required />
+        <input type="number" name="altezza" placeholder="Altezza (cm)" required />
+        <input type="text" name="obiettivo" placeholder="Obiettivo" required />
+        <button type="submit">Invia</button>
+      </form>
+      <pre id="onboardingResult"></pre>
+    </section>
+
+    <section>
+      <h2>Check-in</h2>
+      <form id="checkinForm">
+        <input type="text" name="nome" placeholder="Nome" required />
+        <input type="number" name="giorno" placeholder="Giorno di check-in" required />
+        <input type="number" name="peso_attuale" placeholder="Peso attuale (kg)" required />
+        <button type="submit">Invia</button>
+      </form>
+      <pre id="checkinResult"></pre>
+    </section>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

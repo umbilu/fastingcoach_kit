@@ -1,24 +1,22 @@
 {
-  "name": "fastingcoach_kit",
+  "name": "fastingcoach-server",
   "version": "1.0.0",
-  "description": "Contenuto: - data/: CSV templates and sample data - api_samples/: example JSON requests/responses - server_snippets/: Node.js Express example + rules - prompts/: system & user prompts - docs/: API schema, safety rules, roadmap",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
+  "description": "Server Node.js per FastingCoach - gestione digiuno intermittente",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Umbilu/fastingcoach_kit.git"
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/Umbilu/fastingcoach_kit/issues"
+  "devDependencies": {
+    "nodemon": "^2.0.22"
   },
-  "homepage": "https://github.com/Umbilu/fastingcoach_kit#readme"
+  "engines": {
+    "node": "18.x"
+  },
+  "author": "Umbilu",
+  "license": "MIT"
 }

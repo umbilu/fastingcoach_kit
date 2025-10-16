@@ -1,9 +1,0 @@
-{
-  "status": "ok",
-  "short_message": "Buon lavoro! Peso \u2193 0.8 kg dalla settimana scorsa.",
-  "dettagli": {
-    "delta_settimana": -0.8,
-    "raccomandazione": "Mantieni deficit attuale. Aggiungi 1 sessione forza extra questa settimana.",
-    "alert_medico": false
-  }
-}

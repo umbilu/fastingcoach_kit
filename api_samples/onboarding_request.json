@@ -1,16 +1,6 @@
 {
-  "user_id": "u_12345",
-  "nome": "Maria",
-  "eta": 34,
-  "sesso": "F",
-  "peso_kg": 72.0,
-  "altezza_cm": 165,
-  "obiettivo_kg": 66.0,
-  "tempo_target_settimane": 12,
-  "livello_attivita": "moderato",
-  "condizioni_mediche": [],
-  "farmaci": [],
-  "preferenze_alimentari": "vegetariano",
-  "finestra_inizio": "11:00",
-  "finestra_fine": "19:00"
+  "nome": "Mario",
+  "peso": 80,
+  "altezza": 180,
+  "obiettivo": "perdita peso"
 }
